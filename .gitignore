@@ -1,0 +1,14 @@
+.idea
+cmake-build-debug
+cmake-build-release
+cmake-build-debug-coverage
+cmake-build-debug-asan
+cmake-build-debug-ubsan
+cmake-build-debug-asan-ubsan
+cmake-build-debug-tsan
+cmake-build-debug-asan-tsan
+cmake-build-debug-ubsan-tsan
+cmake-build-debug-asan-ubsan-tsan
+
+
+js
